@@ -6,4 +6,4 @@ Find further information in the [Dynatrace community](https://community.dynatrac
 I used the code from [HipChat](https://github.com/dynaTrace/Dynatrace-HipChat-Plugin) to make it work. Huge thanks to them.
 
 
-Testet with Dynatrace 6.3.1244 this works. Other versions seems not to work, but if you build manually it has worked for most people (April 26th 2016)
+Tested with Dynatrace 7.2 this works. Other versions seems not to work, but if you build manually it has worked for most people (Jan 3rd 2019)
